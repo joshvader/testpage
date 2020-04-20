@@ -1,0 +1,15 @@
+@media (min-width: 1200px) {
+  body {
+    url("../../assets/img/terraza.jpg");background-position: top;
+    background-size: auto;
+    background-repeat: repeat-x;
+    background-color: transparent;
+  }
+}
+
+.navbar-light .navbar-brand {
+}
+
+.nav.navbar-nav.text-center.text-sm-center.text-md-center.text-lg-center.text-xl-center {
+}
+
